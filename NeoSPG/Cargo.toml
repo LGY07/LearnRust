@@ -1,0 +1,13 @@
+[package]
+name = "neospg-rs"
+description = "A NeoSPG write in rust"
+documentation = "https://github.com/LGY07/LearnRust/tree/main/NeoSPG/"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+readme = "README.md"
+authors = ["UrsusFeline <ursusfeline07@gmail.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
